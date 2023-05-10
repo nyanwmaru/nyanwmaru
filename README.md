@@ -12,6 +12,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nyanwmaru&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanwmaru)](https://github.com/nyanwmaru/github-readme-stats)
+
 <!--
 **nyanwmaru/nyanwmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
