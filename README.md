@@ -4,11 +4,19 @@
   <strong> Olá!, Eu sou <a href="https://github.com/nyanwmaru">Valdemiro Araujo.</a></strong>
 </h1>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<br/>
+<a href="https://www.instagram.com/nyanwmaru" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/valdemiro-araujo" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:valdemiroaraujodasilva@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord:nyawnwmaru-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
 ## Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
